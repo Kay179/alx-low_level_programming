@@ -1,8 +1,12 @@
 #include <stdio.h>
 
-//hope this works
+/**
+ * main - Entry point 
+ *
+ * Return: Always 0.
+ */
 
-int main()
+int main(void)
 {
 	return (0);
 }
