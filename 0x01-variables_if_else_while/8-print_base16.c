@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints bae 16 in lowercase 
+ * main - prints bae 16 in lowercase
  * Return: 0
  */
 int main(void)
