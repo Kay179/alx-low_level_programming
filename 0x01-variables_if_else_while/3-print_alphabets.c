@@ -2,13 +2,13 @@
 
 /**
  * main - prints the alphabet in lowercase
- * and upercase 
+ * and upercase
  * Return: 0
  */
 int main(void)
 {
 	int ch, ch2;
-	
+
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
 		putchar(ch);
