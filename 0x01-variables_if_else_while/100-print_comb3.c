@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints combo of numbers 
- * Returns: 0
+ * main - prints combo of numbers
+ * Return: 0
  */
 int main(void)
 {
