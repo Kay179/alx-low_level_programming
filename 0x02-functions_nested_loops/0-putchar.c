@@ -6,4 +6,8 @@
  */
 int main()
 {
-	char str[9] = {'
+	char str[9] = "_putchar";
+
+	printf("%s\n", str);
+	return (0);
+}
